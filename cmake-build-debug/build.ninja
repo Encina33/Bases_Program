@@ -173,39 +173,6 @@ build Bases_Program_Ejercicio4.exe: CXX_EXECUTABLE_LINKER__Bases_Program_Ejercic
   TARGET_PDB = Bases_Program_Ejercicio4.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target Bases_Program_Ejercicio5
-
-
-#############################################
-# Order-only phony target for Bases_Program_Ejercicio5
-
-build cmake_object_order_depends_target_Bases_Program_Ejercicio5: phony || .
-
-build CMakeFiles/Bases_Program_Ejercicio5.dir/Ejercicio5/main.cpp.obj: CXX_COMPILER__Bases_Program_Ejercicio5_unscanned_Debug C$:/Users/u/CLionProjects/Bases_Program/Ejercicio5/main.cpp || cmake_object_order_depends_target_Bases_Program_Ejercicio5
-  DEP_FILE = CMakeFiles\Bases_Program_Ejercicio5.dir\Ejercicio5\main.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Bases_Program_Ejercicio5.dir
-  OBJECT_FILE_DIR = CMakeFiles\Bases_Program_Ejercicio5.dir\Ejercicio5
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Bases_Program_Ejercicio5
-
-
-#############################################
-# Link the executable Bases_Program_Ejercicio5.exe
-
-build Bases_Program_Ejercicio5.exe: CXX_EXECUTABLE_LINKER__Bases_Program_Ejercicio5_Debug CMakeFiles/Bases_Program_Ejercicio5.dir/Ejercicio5/main.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Bases_Program_Ejercicio5.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Bases_Program_Ejercicio5.exe
-  TARGET_IMPLIB = libBases_Program_Ejercicio5.dll.a
-  TARGET_PDB = Bases_Program_Ejercicio5.exe.dbg
-
-# =============================================================================
 # Object build statements for EXECUTABLE target Bases_Program_BucleDo
 
 
@@ -343,6 +310,39 @@ build Bases_Program_InstruccionSalto.exe: CXX_EXECUTABLE_LINKER__Bases_Program_I
   TARGET_IMPLIB = libBases_Program_InstruccionSalto.dll.a
   TARGET_PDB = Bases_Program_InstruccionSalto.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Bases_Program_Pruebas_Operadores
+
+
+#############################################
+# Order-only phony target for Bases_Program_Pruebas_Operadores
+
+build cmake_object_order_depends_target_Bases_Program_Pruebas_Operadores: phony || .
+
+build CMakeFiles/Bases_Program_Pruebas_Operadores.dir/Pruebas_Operadores/main.cpp.obj: CXX_COMPILER__Bases_Program_Pruebas_Operadores_unscanned_Debug C$:/Users/u/CLionProjects/Bases_Program/Pruebas_Operadores/main.cpp || cmake_object_order_depends_target_Bases_Program_Pruebas_Operadores
+  DEP_FILE = CMakeFiles\Bases_Program_Pruebas_Operadores.dir\Pruebas_Operadores\main.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Bases_Program_Pruebas_Operadores.dir
+  OBJECT_FILE_DIR = CMakeFiles\Bases_Program_Pruebas_Operadores.dir\Pruebas_Operadores
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Bases_Program_Pruebas_Operadores
+
+
+#############################################
+# Link the executable Bases_Program_Pruebas_Operadores.exe
+
+build Bases_Program_Pruebas_Operadores.exe: CXX_EXECUTABLE_LINKER__Bases_Program_Pruebas_Operadores_Debug CMakeFiles/Bases_Program_Pruebas_Operadores.dir/Pruebas_Operadores/main.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Bases_Program_Pruebas_Operadores.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Bases_Program_Pruebas_Operadores.exe
+  TARGET_IMPLIB = libBases_Program_Pruebas_Operadores.dll.a
+  TARGET_PDB = Bases_Program_Pruebas_Operadores.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -383,9 +383,9 @@ build Bases_Program_Ejercicio3: phony Bases_Program_Ejercicio3.exe
 
 build Bases_Program_Ejercicio4: phony Bases_Program_Ejercicio4.exe
 
-build Bases_Program_Ejercicio5: phony Bases_Program_Ejercicio5.exe
-
 build Bases_Program_InstruccionSalto: phony Bases_Program_InstruccionSalto.exe
+
+build Bases_Program_Pruebas_Operadores: phony Bases_Program_Pruebas_Operadores.exe
 
 # =============================================================================
 # Folder targets.
@@ -395,7 +395,7 @@ build Bases_Program_InstruccionSalto: phony Bases_Program_InstruccionSalto.exe
 #############################################
 # Folder: C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug
 
-build all: phony Bases_Program_Ejercicio1.exe Bases_Program_Ejercicio2.exe Bases_Program_Ejercicio3.exe Bases_Program_Ejercicio4.exe Bases_Program_Ejercicio5.exe Bases_Program_BucleDo.exe Bases_Program_BucleFor.exe Bases_Program_BucleWhile.exe Bases_Program_InstruccionSalto.exe
+build all: phony Bases_Program_Ejercicio1.exe Bases_Program_Ejercicio2.exe Bases_Program_Ejercicio3.exe Bases_Program_Ejercicio4.exe Bases_Program_BucleDo.exe Bases_Program_BucleFor.exe Bases_Program_BucleWhile.exe Bases_Program_InstruccionSalto.exe Bases_Program_Pruebas_Operadores.exe
 
 # =============================================================================
 # Built-in targets

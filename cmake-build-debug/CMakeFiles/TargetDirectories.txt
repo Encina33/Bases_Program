@@ -2,10 +2,10 @@ C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug/CMakeFiles/Bases_Progra
 C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug/CMakeFiles/Bases_Program_Ejercicio2.dir
 C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug/CMakeFiles/Bases_Program_Ejercicio3.dir
 C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug/CMakeFiles/Bases_Program_Ejercicio4.dir
-C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug/CMakeFiles/Bases_Program_Ejercicio5.dir
 C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug/CMakeFiles/Bases_Program_BucleDo.dir
 C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug/CMakeFiles/Bases_Program_BucleFor.dir
 C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug/CMakeFiles/Bases_Program_BucleWhile.dir
 C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug/CMakeFiles/Bases_Program_InstruccionSalto.dir
+C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug/CMakeFiles/Bases_Program_Pruebas_Operadores.dir
 C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -35,3 +35,6 @@ add_executable(Bases_Program_InstruccionSalto
         "InstruccionSalto/main.cpp"
         BucleWhile/main.cpp
 )
+add_executable(Bases_Program_Pruebas_Operadores
+        "Pruebas_Operadores/main.cpp"
+)
