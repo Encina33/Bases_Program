@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Bases_Program",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Bases_Program_BucleDo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bases_Program_BucleDo-Debug-8726f4748df52b2a9b3e.json",
+					"name" : "Bases_Program_BucleDo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Bases_Program_BucleFor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bases_Program_BucleFor-Debug-c3d13dbbfe13a843cee1.json",
+					"name" : "Bases_Program_BucleFor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Bases_Program_BucleWhile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bases_Program_BucleWhile-Debug-bed537c29807646f1bc0.json",
+					"name" : "Bases_Program_BucleWhile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Bases_Program_Ejercicio1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bases_Program_Ejercicio1-Debug-db042d47ea9dc0488f66.json",
+					"name" : "Bases_Program_Ejercicio1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Bases_Program_Ejercicio2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bases_Program_Ejercicio2-Debug-95a05cab28a93ed439ea.json",
+					"name" : "Bases_Program_Ejercicio2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Bases_Program_Ejercicio3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bases_Program_Ejercicio3-Debug-698d2d21833979dbc0a8.json",
+					"name" : "Bases_Program_Ejercicio3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Bases_Program_Ejercicio4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bases_Program_Ejercicio4-Debug-1763875347b1b83e0de1.json",
+					"name" : "Bases_Program_Ejercicio4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Bases_Program_Ejercicio5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bases_Program_Ejercicio5-Debug-7709b7a776c82a137677.json",
+					"name" : "Bases_Program_Ejercicio5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Bases_Program_InstruccionSalto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bases_Program_InstruccionSalto-Debug-ec37e9bfe22d982c0c6c.json",
+					"name" : "Bases_Program_InstruccionSalto",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/u/CLionProjects/Bases_Program/cmake-build-debug",
+		"source" : "C:/Users/u/CLionProjects/Bases_Program"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

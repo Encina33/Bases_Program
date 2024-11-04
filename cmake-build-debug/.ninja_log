@@ -1,0 +1,22 @@
+# ninja log v6
+459	567	7524431606632596	Bases_Program_Ejercicio1.exe	d87a708753484124
+6	768	7524423551093099	CMakeFiles/Bases_Program.dir/main.cpp.obj	b67372e520d08b50
+771	988	7524423558739634	Bases_Program.exe	5b8867171f56015e
+16	350	7524535078953290	build.ninja	fa9def503f1ea489
+3	525	7524450089330452	CMakeFiles/Bases_Program_Ejercicio4.dir/Ejercicio4/main.cpp.obj	d46a1bbe3ef102c6
+483	659	7524431704736601	Bases_Program_Ejercicio2.exe	8e921e14b2fb3301
+25	458	7524431602296889	CMakeFiles/Bases_Program_Ejercicio1.dir/Ejercicio1/main.cpp.obj	b669ae147f27aeac
+20	478	7524431700110868	CMakeFiles/Bases_Program_Ejercicio2.dir/Ejercicio2/main.cpp.obj	8245ea6cae0d753a
+18	413	7524445669172279	CMakeFiles/Bases_Program_Ejercicio3.dir/Ejercicio3/main.cpp.obj	efa730f1d068629e
+418	574	7524445673177084	Bases_Program_Ejercicio3.exe	bbefe3d01476e72d
+525	620	7524450094551386	Bases_Program_Ejercicio4.exe	6676434f3ec2aa00
+31	436	7524537380488922	CMakeFiles/Bases_Program_BucleDo.dir/BucleDo/main.cpp.obj	de90737de4e88d25
+437	548	7524537384535996	Bases_Program_BucleDo.exe	9215cf23a5dbd314
+28	456	7524537451764889	CMakeFiles/Bases_Program_BucleFor.dir/BucleFor/main.cpp.obj	9864eeed4f3d8294
+457	640	7524537456049932	Bases_Program_BucleFor.exe	df045b4de31f4e0e
+6	534	7524537647796425	CMakeFiles/Bases_Program_Ejercicio1.dir/Ejercicio1/main.cpp.obj	b669ae147f27aeac
+535	664	7524537653071635	Bases_Program_Ejercicio1.exe	d87a708753484124
+6	539	7524537911092574	CMakeFiles/Bases_Program_Ejercicio2.dir/Ejercicio2/main.cpp.obj	8245ea6cae0d753a
+540	690	7524537916431189	Bases_Program_Ejercicio2.exe	8e921e14b2fb3301
+31	630	7524538060381369	CMakeFiles/Bases_Program_Ejercicio3.dir/Ejercicio3/main.cpp.obj	efa730f1d068629e
+630	784	7524538066374402	Bases_Program_Ejercicio3.exe	bbefe3d01476e72d
