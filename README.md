@@ -1,4 +1,4 @@
-# Bases_Program
+# Bases_Program  //Bárbara, Octavio y Encina
 https://github.com/Encina33/Bases_Program.git
 
 
